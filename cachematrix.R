@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ##  Creates an object from a matrix
 makeCacheMatrix <- function(x = matrix()) {
         ## sets m to NULL
